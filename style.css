@@ -1,0 +1,29 @@
+body { background: aliceblue;}
+section {
+    background: rgb(220, 235, 248);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    display: ruby-text;
+    justify-content: center;
+}
+.chamada-texto{margin-right: 10%;}
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);}
+
+.descrição {display: block ;
+    padding-bottom: 2%;
+}
+
+.Des {background: rgb(197,220,237);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    display: ruby-text;
+    justify-content: center;}
+
+.video {background: rgb(177, 208, 231);
+
+        display: ruby-text;
+        justify-content: center;}    
